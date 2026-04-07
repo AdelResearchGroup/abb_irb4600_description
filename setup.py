@@ -30,6 +30,6 @@ setup(
     zip_safe=True,
     maintainer='Daniel Ruan',
     maintainer_email='daniel.ruan@princeton.edu',
-    description='URDF/Xacro and meshes for the ABB IRB4600 industrial robot.',
+    description='URDF/Xacro and meshes for the ABB IRB4600-40/2.55 industrial robot.',
     license='Apache-2.0',
 )
