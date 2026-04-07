@@ -2,7 +2,7 @@
 <package format="3">
   <name>abb_irb4600_description</name>
   <version>0.1.0</version>
-  <description>URDF/Xacro and meshes for the ABB IRB4600 industrial robot.</description>
+  <description>URDF/Xacro and meshes for the ABB IRB4600-40/2.55 industrial robot.</description>
 
   <maintainer email="daniel.ruan@princeton.edu">Daniel Ruan</maintainer>
   <author>Daniel Ruan</author>
